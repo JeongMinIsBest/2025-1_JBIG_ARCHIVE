@@ -17,3 +17,5 @@ plt.rc('font', family='NanumBarunGothic')
 plt.rcParams['axes.unicode_minus'] =False
 ```
 </br>
+
+출처 : [구글 코랩(colab) seaborn, matplotlib 한글 깨짐 현상 해결방법](https://giveme-happyending.tistory.com/192)
