@@ -1,6 +1,6 @@
 # 2025-1학기 JBIG 주차별 학습 코드 아카이브 🔥
 
-## Colab Seaborn, Matplotlib 한글 깨짐 현상 해결
+## 🔠 Colab Seaborn, Matplotlib 한글 깨짐 현상 해결
 
 - 나눔 폰트 설치
 ```
@@ -20,7 +20,7 @@ plt.rcParams['axes.unicode_minus'] =False
 
 출처 : [구글 코랩(colab) seaborn, matplotlib 한글 깨짐 현상 해결방법](https://giveme-happyending.tistory.com/192)
 
-## 로컬 환경에서 한글 깨짐 현상 해결
+## 🔠 로컬 환경에서 한글 깨짐 현상 해결
 
 ```
 import matplotlib.pyplot as plt
