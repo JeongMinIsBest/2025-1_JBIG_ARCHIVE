@@ -20,7 +20,7 @@ plt.rcParams['axes.unicode_minus'] =False
 
 출처 : [구글 코랩(colab) seaborn, matplotlib 한글 깨짐 현상 해결방법](https://giveme-happyending.tistory.com/192)
 
-## 로컬 환겨엥서 한글 깨짐 현상 해결
+## 로컬 환경에서 한글 깨짐 현상 해결
 
 ```
 import matplotlib.pyplot as plt
